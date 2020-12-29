@@ -1,6 +1,6 @@
 # Hi there, I'm Pradeep Giri! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">
 
-<img align='right' src="https://clipartstation.com/wp-content/uploads/2017/11/programmer-clipart.png" width="230">
+<img align='right' src="https://clipartstation.com/wp-content/uploads/2017/11/programmer-clipart.png" width="200">
 
 ## I'm a Full Stack Developer!!
 
