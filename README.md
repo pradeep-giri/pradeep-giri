@@ -1,4 +1,7 @@
 # Hi there, I'm Pradeep Giri! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">
+
+<img align='right' src="http://www.pngmart.com/files/4/Coder-PNG-Clipart.png" width="230">
+
 ## I'm a Full Stack Developer!!
 
 - 🌱 I’m currently learning everything 🤣
