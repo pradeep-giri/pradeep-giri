@@ -37,10 +37,15 @@ const pradeep = {
     "The root is at the top of the tree",
 };
 ```
+---
 
-[![Pradeep's github stats](https://github-readme-stats.vercel.app/api?username=pradeep-giri&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Pradeep's github stats](https://github-readme-stats.vercel.app/api?username=pradeep-giri&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-giri&layout=compact&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-giri&layout=compact&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ### Connect with me:
 
