@@ -1,7 +1,7 @@
-### Hi there, I'm Pradeep Giri! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">
+# Hi there, I'm Pradeep Giri! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">
 
 <img align='right' src="http://www.pngmart.com/files/4/Coder-PNG-Clipart.png" width="230">
-![GitHub followers](https://img.shields.io/github/followers/pradeep-giri?label=Follow&logo=Github&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/pradeep-giri?label=Follow&logo=Github&style=for-the-badge)]
 
 ## I'm a Full Stack Developer!!
 
