@@ -47,11 +47,11 @@ const pradeep = {
 
 ---
 
-### Connect with me:
+### Connect with me
 
-[<img align="left" alt="codeSTACKr | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="twitter | Twitter" width="30px" src="http://icons.iconarchive.com/icons/ampeross/smooth/512/Twitter-icon.png" />][twitter]
+[<img align="left" alt="linkedin | LinkedIn" width="30px" src="https://logospng.org/download/linkedin/logo-linkedin-icon-1024.png" />][linkedin]
+[<img align="left" alt="instagram | Instagram" width="30px" src="https://cdn.pixelprivacy.com/wp-content/uploads/2018/02/Instagram-Icon.png" />][instagram]
 
 <br />
 
