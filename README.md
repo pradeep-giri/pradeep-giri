@@ -38,7 +38,7 @@ const pradeep = {
 };
 ```
 
-[![Pradeep's github stats](https://github-readme-stats.vercel.app/api?username=pradeep-giri)](https://github.com/anuraghazra/github-readme-stats)
+[![Pradeep's github stats](https://github-readme-stats.vercel.app/api?username=pradeep-giri&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 
