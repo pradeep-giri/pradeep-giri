@@ -51,10 +51,8 @@ const pradeep = {
 
 [<img align="left" alt="twitter | Twitter" width="30px" src="http://icons.iconarchive.com/icons/ampeross/smooth/512/Twitter-icon.png" />][twitter]
 [<img align="left" alt="linkedin | LinkedIn" width="30px" src="https://logospng.org/download/linkedin/logo-linkedin-icon-1024.png" />][linkedin]
-[<img align="left" alt="instagram | Instagram" width="30px" src="https://cdn.pixelprivacy.com/wp-content/uploads/2018/02/Instagram-Icon.png" />][instagram]
 
 <br />
 
 [twitter]: https://twitter.com/pradeep77176877
-[instagram]: https://instagram.com/pradeep_giri_
 [linkedin]: https://linkedin.com/in/pradeep-giri
