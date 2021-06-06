@@ -1,6 +1,6 @@
 # Hi there, I'm Pradeep Giri! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">
 
-<img src="https://camo.githubusercontent.com/505c2c03a5b20dcc664ce9a0dbdce638ea0a8a85fc39e613c0f4a2f545dd67b1/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img src="https://vault8.io/57725af3d3c44f9992d2edb2c96e.gif/autoorient,resize_fit-1920-1080/Man_Working_at_his_Desk_GIF_Animation_Loop.gif?p=0aa930d138b25b338ee16fe&s=12e8a8cda0a757e148be934dde3e820de938663a">
 
 ## I'm a Full Stack Developer!!
 
