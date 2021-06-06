@@ -1,6 +1,6 @@
 # Hi there, I'm Pradeep Giri! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">
 
-<img src="https://vault8.io/57725af3d3c44f9992d2edb2c96e.gif/autoorient,resize_fit-1920-1080/Man_Working_at_his_Desk_GIF_Animation_Loop.gif?p=0aa930d138b25b338ee16fe&s=12e8a8cda0a757e148be934dde3e820de938663a">
+<img src="https://blog.cloudlayer.io/content/images/2020/12/coding-freak.gif">
 
 ## I'm a Full Stack Developer!!
 
